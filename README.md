@@ -29,6 +29,7 @@ Please return to the enviroment tab after you are done and from the actions avai
 ## Additional Links
 1. https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/gpu-environments.html
 2. https://medium.com/ibm-data-science-experience/working-with-ibm-cloud-object-storage-in-python-fe0ba8667d5f
+3. The GAN model in the notebook is based on https://github.com/mafda/generative_adversarial_networks_101
 
 
 
