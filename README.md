@@ -27,7 +27,8 @@ In order to get through this part of the tutorial please download the MNIST data
 Please return to the enviroment tab after you are done and from the actions available for your resources please `STOP` the machines before leaving.
 
 ## Additional Links
-https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/gpu-environments.html
+1. https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/gpu-environments.html
+2. https://medium.com/ibm-data-science-experience/working-with-ibm-cloud-object-storage-in-python-fe0ba8667d5f
 
 
 
