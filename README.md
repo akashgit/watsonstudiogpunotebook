@@ -26,6 +26,9 @@ In order to get through this part of the tutorial please download the MNIST data
 ## `Important`
 Please return to the enviroment tab after you are done and from the actions available for your resources please `STOP` the machines before leaving.
 
+## Additional Links
+https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/gpu-environments.html
+
 
 
 __Akash Srivastava 03/01/2019__
