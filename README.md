@@ -20,8 +20,13 @@ Now you can go to the `Assets` tab and add a notebook. This is also where you ca
 
 Here you can actually pass the URL of the `test` notebook. The studio will download and instantiate your notebook automatically. That's it, you are good to go!
 
+## Importing Data.
+In order to get through this part of the tutorial please download the MNIST dataset from [here](http://yann.lecun.com/exdb/mnist/). Just the training dataset is needed with the labels. 
+
 ## `Important`
 Please return to the enviroment tab after you are done and from the actions available for your resources please `STOP` the machines before leaving.
+
+
 
 __Akash Srivastava 03/01/2019__
 
